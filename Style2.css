@@ -1,0 +1,33 @@
+body
+{
+    background-color: rgb(255, 251, 244);
+    text-align: center;
+    color: rgb(102, 98, 98);
+}
+
+.Conditions_utilisation
+{
+    font-size: 2.5em;
+    margin-top: 10vh;
+    text-decoration: underline;
+}
+
+.conditions_div
+{
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 60%;
+    border: 1px black solid;
+    padding: 1vw 1vh;
+}
+
+h3
+{
+ text-align: center;
+}
+
+p
+{
+    font-size: 1.3em;
+}
